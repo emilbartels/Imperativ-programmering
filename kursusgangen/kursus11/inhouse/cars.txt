@@ -1,0 +1,16 @@
+
+ Navn: Lotus
+ Top fart: 200
+ HK: 110
+ Acceleration: 8
+ CCM: 1973
+
+
+
+ Navn: Mercedes
+ Top fart: 215
+ HK: 160
+ Acceleration: 9
+ CCM: 4520
+
+
